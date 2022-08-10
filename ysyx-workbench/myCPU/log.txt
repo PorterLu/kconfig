@@ -1,0 +1,6 @@
+[1;34m[/home/porterlu/ysyx-workbench/myCPU/csrc/img.c:41 load_img] The image is /home/porterlu/ysyx-workbench/am-kernels/tests/am-tests/build/amtest-riscv64-npc.bin, size = 610892[0m
+[1;34m[/home/porterlu/ysyx-workbench/myCPU/csrc/difftest.c:88 init_difftest] Differential testing:[1;32mON[0m[0m
+[1;34m[/home/porterlu/ysyx-workbench/myCPU/csrc/mmio.c:46 add_mmio_map] Add mmio map 'serial' at [ a00003f8 , a00003ff ][0m
+[1;34m[/home/porterlu/ysyx-workbench/myCPU/csrc/mmio.c:46 add_mmio_map] Add mmio map 'rtc' at [ a0000048 , a000004f ][0m
+[1;34m[/home/porterlu/ysyx-workbench/myCPU/csrc/mmio.c:46 add_mmio_map] Add mmio map 'vgactl' at [ a0000100 , a0000107 ][0m
+[1;34m[/home/porterlu/ysyx-workbench/myCPU/csrc/mmio.c:46 add_mmio_map] Add mmio map 'vmem' at [ a1000000 , a10752ff ][0m

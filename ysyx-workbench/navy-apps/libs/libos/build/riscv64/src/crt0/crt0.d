@@ -1,0 +1,22 @@
+/home/porterlu/ysyx-workbench/navy-apps/libs/libos/build/riscv64/src/crt0/crt0.o: \
+ /home/porterlu/ysyx-workbench/navy-apps/libs/libos/src/crt0/crt0.c \
+ /home/porterlu/ysyx-workbench/navy-apps/libs/libc/include/stdint.h \
+ /home/porterlu/ysyx-workbench/navy-apps/libs/libc/include/machine/_default_types.h \
+ /home/porterlu/ysyx-workbench/navy-apps/libs/libc/include/sys/features.h \
+ /home/porterlu/ysyx-workbench/navy-apps/libs/libc/include/_newlib_version.h \
+ /home/porterlu/ysyx-workbench/navy-apps/libs/libc/include/sys/_intsup.h \
+ /home/porterlu/ysyx-workbench/navy-apps/libs/libc/include/sys/_stdint.h \
+ /home/porterlu/ysyx-workbench/navy-apps/libs/libc/include/stdlib.h \
+ /home/porterlu/ysyx-workbench/navy-apps/libs/libc/include/machine/ieeefp.h \
+ /home/porterlu/ysyx-workbench/navy-apps/libs/libc/include/_ansi.h \
+ /home/porterlu/ysyx-workbench/navy-apps/libs/libc/include/newlib.h \
+ /home/porterlu/ysyx-workbench/navy-apps/libs/libc/include/sys/config.h \
+ /home/porterlu/ysyx-workbench/navy-apps/libs/libc/include/sys/reent.h \
+ /home/porterlu/ysyx-workbench/navy-apps/libs/libc/include/_ansi.h \
+ /home/porterlu/ysyx-workbench/navy-apps/libs/libc/include/sys/_types.h \
+ /home/porterlu/ysyx-workbench/navy-apps/libs/libc/include/machine/_types.h \
+ /home/porterlu/ysyx-workbench/navy-apps/libs/libc/include/sys/lock.h \
+ /home/porterlu/ysyx-workbench/navy-apps/libs/libc/include/sys/cdefs.h \
+ /home/porterlu/ysyx-workbench/navy-apps/libs/libc/include/machine/stdlib.h \
+ /home/porterlu/ysyx-workbench/navy-apps/libs/libc/include/alloca.h \
+ /home/porterlu/ysyx-workbench/navy-apps/libs/libc/include/assert.h

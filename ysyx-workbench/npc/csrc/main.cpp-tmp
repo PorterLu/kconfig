@@ -1,0 +1,37 @@
+#include "Vtop.h" 	// 加载verilator为 verilog 生存的模型文件
+#include "verilated_vcd_c.h" // 用于生存波形
+#include "verilated.h" // verilator头文件
+#include "nvboard.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <assert.h>
+
+int main(int argc, char* argv[], char** env) {
+	VerilatedContext *contextp = new VerilatedContext; //生成一个verilator上下文
+	VerilatedVcdC *tfp = new VerilatedVcdC;		   //tfp用于生存波形
+	contextp->commandArgs(argc,argv);		   //获取参数
+	contextp->traceEverOn(true);			   //上下文总开启波形的追踪
+	Vtop *top = new Vtop;				   //为模型实例化
+	top->trace(tfp,0);				   //模型开启追踪功能
+	tfp->open("dump.vcd");				   //波形文件
+
+  	while(!Verilated::gotFinish())			   
+	{
+		int a = rand() & 1;
+		int b = rand() & 1;
+		top->a = a;
+		top->b = b;
+		top->eval();				   //输出一次
+		contextp->timeInc(1);			   //时钟前进一次
+		tfp->dump(contextp->time());		   //输出波形
+		printf("a=%d, b=%d, f=%d\n",a, b, top->f);
+		assert(top->f == a ^ b);
+	}
+
+	tfp->close();
+	delete contextp;
+	delete tfp;
+	delete top;
+
+  	return 0;
+}

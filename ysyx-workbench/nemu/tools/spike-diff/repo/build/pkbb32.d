@@ -1,0 +1,4 @@
+pkbb32.o: pkbb32.cc \
+ /home/porterlu/ysyx-workbench/nemu/tools/spike-diff/repo/riscv/insns/pkbb32.h
+
+/home/porterlu/ysyx-workbench/nemu/tools/spike-diff/repo/riscv/insns/pkbb32.h:

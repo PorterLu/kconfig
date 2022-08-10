@@ -1,0 +1,187 @@
+[
+    {
+        "label": "playground.test.runUseArgsFile",
+        "millis": 29,
+        "cached": false
+    },
+    {
+        "label": "playground.test.testUseArgsFile",
+        "millis": 5,
+        "cached": false
+    },
+    {
+        "label": "playground.test.forkArgs",
+        "millis": 4,
+        "cached": false
+    },
+    {
+        "label": "playground.test.testFramework",
+        "millis": 2,
+        "cached": false
+    },
+    {
+        "label": "playground.test.resources",
+        "millis": 5,
+        "cached": false
+    },
+    {
+        "label": "playground.scalaVersion",
+        "millis": 2,
+        "cached": false
+    },
+    {
+        "label": "playground.test.scalaVersion",
+        "millis": 3,
+        "cached": false
+    },
+    {
+        "label": "mill.scalalib.ZincWorkerModule.classpath",
+        "millis": 715,
+        "cached": false
+    },
+    {
+        "label": "mill.scalalib.ZincWorkerModule.worker",
+        "millis": 33,
+        "cached": false
+    },
+    {
+        "label": "playground.upstreamCompileOutput",
+        "millis": 2,
+        "cached": false
+    },
+    {
+        "label": "playground.sources",
+        "millis": 10,
+        "cached": false
+    },
+    {
+        "label": "playground.generatedSources",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "playground.allSources",
+        "millis": 2,
+        "cached": false
+    },
+    {
+        "label": "playground.allSourceFiles",
+        "millis": 5,
+        "cached": false
+    },
+    {
+        "label": "playground.transitiveLocalClasspath",
+        "millis": 2,
+        "cached": false
+    },
+    {
+        "label": "playground.resources",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "playground.unmanagedClasspath",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "playground.platformSuffix",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "playground.compileIvyDeps",
+        "millis": 2,
+        "cached": false
+    },
+    {
+        "label": "playground.transitiveCompileIvyDeps",
+        "millis": 2,
+        "cached": false
+    },
+    {
+        "label": "playground.ivyDeps",
+        "millis": 22,
+        "cached": false
+    },
+    {
+        "label": "playground.mandatoryIvyDeps.overridden.mill.scalalib.JavaModule.mandatoryIvyDeps",
+        "millis": 2,
+        "cached": false
+    },
+    {
+        "label": "playground.scalaOrganization",
+        "millis": 4,
+        "cached": false
+    },
+    {
+        "label": "playground.scalaLibraryIvyDeps",
+        "millis": 3,
+        "cached": false
+    },
+    {
+        "label": "playground.mandatoryIvyDeps",
+        "millis": 2,
+        "cached": false
+    },
+    {
+        "label": "playground.transitiveIvyDeps",
+        "millis": 3,
+        "cached": false
+    },
+    {
+        "label": "playground.resolvedIvyDeps",
+        "millis": 207,
+        "cached": false
+    },
+    {
+        "label": "playground.compileClasspath",
+        "millis": 3,
+        "cached": false
+    },
+    {
+        "label": "playground.javacOptions",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "playground.mandatoryScalacOptions",
+        "millis": 2,
+        "cached": false
+    },
+    {
+        "label": "playground.scalacPluginIvyDeps",
+        "millis": 3,
+        "cached": false
+    },
+    {
+        "label": "playground.enablePluginScalacOptions",
+        "millis": 17,
+        "cached": false
+    },
+    {
+        "label": "playground.scalacOptions",
+        "millis": 2,
+        "cached": false
+    },
+    {
+        "label": "playground.allScalacOptions",
+        "millis": 2,
+        "cached": false
+    },
+    {
+        "label": "playground.scalaCompilerClasspath",
+        "millis": 24,
+        "cached": false
+    },
+    {
+        "label": "playground.scalacPluginClasspath",
+        "millis": 26,
+        "cached": false
+    },
+    {
+        "label": "playground.compile",
+        "millis": 13388,
+        "cached": false
+    }
+]
